@@ -4,8 +4,10 @@
 
 # Postman Sidebar Expand
 
-Linking someone to a specific method on Postman won't expend their sidebar.
-For that reason I created this quick bookmarklet to help you find the linke item in the sidebar.
+Linking someone to a specific method on Postman documenter won't expend their sidebar (folders). I created this quick bookmarklet to help find the linked item in the sidebar.
+
+It will recursively open the nested folders until it gets to the top.
+
 
 # Usage
 
